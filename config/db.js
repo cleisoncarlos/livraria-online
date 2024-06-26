@@ -2,7 +2,6 @@ import { Sequelize } from 'sequelize';
 import 'dotenv/config'
 
 
-
 //'database', 'username', 'password'
 const sequelize = new Sequelize(process.env.PG_NAME, process.env.PG_USER, process.env.PG_PASSWORD, {
   host: process.env.PG_HOST,
@@ -14,7 +13,6 @@ const sequelize = new Sequelize(process.env.PG_NAME, process.env.PG_USER, proces
   logging: false // não retorna oo teste de conexão 'SELECT 1+1 AS result'
 }
 )
-
 
 // Test connection and log errors
 sequelize.authenticate()

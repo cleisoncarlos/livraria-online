@@ -1,10 +1,10 @@
 import { getClient } from "./mongo.db.js";
 
-async function createProductInfo(productInfo){
+async function createLivroInfo(livroInfo){
     const client = getClient()
     try {
         await client.connect()
-        await client.db('store').collection('productInfo').insertOne(productInfo)
+        await client.db('store').collection('livroInfo').insertOne(livroInfo)
         console.log('Product information inserted successfully');
 
     } catch (err){
@@ -16,13 +16,14 @@ async function createProductInfo(productInfo){
 }
 
 
-async function updateProductInfo(productInfo){
+
+async function updateLivroInfo(livroInfo){
     const client = getClient()
     try {
         await client.connect()
-        await client.db('store').collection('productInfo').updateOne(
-            {productId: productInfo.productId},
-        {$set: {...productInfo}}
+        await client.db('livraria-online').collection('livroInfo').updateOne(
+            {productId: livroInfo.productId},
+        {$set: {...livroInfo}}
     )
     console.log('Product information updated successfully');
 
@@ -35,12 +36,12 @@ async function updateProductInfo(productInfo){
 
 }
 
-async function getProductInfo(productId){
+async function getLivroInfo(livroId){
     const client = getClient()
 
     try {
         await client.connect()
-        await client.db('store').collection('productInfo').findOne({productId})
+        await client.db('livraria-online').collection('livroInfo').findOne({livroId})
     } catch (err){      
         throw err
     } finally{
@@ -49,10 +50,31 @@ async function getProductInfo(productId){
 
 }
 
+
+
+
+async function createAvaliacao(avaliacao, productId) {
+    try {
+        const livroInfo = await getLivroInfo(productId);
+        if (!livroInfo) {
+            throw new Error("Register not found");
+        }
+        livroInfo.reviews.push(avaliacao);
+        return await updateLivroInfo(livroInfo);
+    }
+    catch (error) {
+        throw error;
+    }
+}
+
+
+
+
 export default {
-    createProductInfo,
-    updateProductInfo,
-    getProductInfo
+    createLivroInfo,
+    updateLivroInfo,
+    getLivroInfo,
+    createAvaliacao
 }
 
 

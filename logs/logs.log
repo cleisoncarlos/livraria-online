@@ -35,3 +35,360 @@
 2024-06-26T01:03:02.514Z [livraria-online] info: GET /venda
 2024-06-26T01:04:02.892Z [livraria-online] info: API Started!
 2024-06-26T01:04:03.139Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T13:01:58.324Z [livraria-online] info: API Started!
+2024-06-26T13:01:58.877Z [livraria-online] error: Não foi possível conectar ao bango de dados!: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string
+2024-06-26T13:04:26.987Z [livraria-online] info: API Started!
+2024-06-26T13:04:27.059Z [livraria-online] error: Não foi possível conectar ao bango de dados!: autentica��o do tipo senha falhou para o usu�rio "postgresql"
+2024-06-26T13:04:53.902Z [livraria-online] info: API Started!
+2024-06-26T13:04:53.961Z [livraria-online] error: Não foi possível conectar ao bango de dados!: autentica��o do tipo senha falhou para o usu�rio "postgres"
+2024-06-26T13:05:26.988Z [livraria-online] info: API Started!
+2024-06-26T13:05:27.048Z [livraria-online] error: Não foi possível conectar ao bango de dados!: autentica��o do tipo senha falhou para o usu�rio "postgresql"
+2024-06-26T13:06:15.861Z [livraria-online] info: API Started!
+2024-06-26T13:06:15.919Z [livraria-online] error: Não foi possível conectar ao bango de dados!: autentica��o do tipo senha falhou para o usu�rio "postgresql"
+2024-06-26T13:06:33.937Z [livraria-online] info: API Started!
+2024-06-26T13:06:34.001Z [livraria-online] error: Não foi possível conectar ao bango de dados!: autentica��o do tipo senha falhou para o usu�rio "postgres"
+2024-06-26T13:09:39.041Z [livraria-online] info: API Started!
+2024-06-26T13:09:39.151Z [livraria-online] error: Não foi possível conectar ao bango de dados!: autentica��o do tipo senha falhou para o usu�rio "postgres"
+2024-06-26T13:09:58.853Z [livraria-online] info: API Started!
+2024-06-26T13:09:58.913Z [livraria-online] error: Não foi possível conectar ao bango de dados!: autentica��o do tipo senha falhou para o usu�rio "postgres"
+2024-06-26T13:10:18.699Z [livraria-online] info: API Started!
+2024-06-26T13:10:18.758Z [livraria-online] error: Não foi possível conectar ao bango de dados!: autentica��o do tipo senha falhou para o usu�rio "postgres"
+2024-06-26T13:10:37.838Z [livraria-online] info: API Started!
+2024-06-26T13:10:37.898Z [livraria-online] error: Não foi possível conectar ao bango de dados!: autentica��o do tipo senha falhou para o usu�rio "postgres"
+2024-06-26T13:11:00.850Z [livraria-online] info: API Started!
+2024-06-26T13:11:00.923Z [livraria-online] error: Não foi possível conectar ao bango de dados!: autentica��o do tipo senha falhou para o usu�rio "postgresql"
+2024-06-26T13:11:17.274Z [livraria-online] info: API Started!
+2024-06-26T13:11:17.336Z [livraria-online] error: Não foi possível conectar ao bango de dados!: autentica��o do tipo senha falhou para o usu�rio "postgresql"
+2024-06-26T13:13:35.904Z [livraria-online] info: API Started!
+2024-06-26T13:13:36.050Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T13:15:42.066Z [livraria-online] info: API Started!
+2024-06-26T13:15:42.203Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T13:16:30.803Z [livraria-online] info: API Started!
+2024-06-26T13:16:30.970Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T13:17:39.392Z [livraria-online] info: API Started!
+2024-06-26T13:17:39.528Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T13:18:11.759Z [livraria-online] info: API Started!
+2024-06-26T13:18:11.923Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T13:18:19.524Z [livraria-online] info: API Started!
+2024-06-26T13:18:19.680Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T13:19:07.202Z [livraria-online] info: API Started!
+2024-06-26T13:19:07.345Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T13:24:22.425Z [livraria-online] info: API Started!
+2024-06-26T13:24:22.567Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T13:25:54.876Z [livraria-online] info: API Started!
+2024-06-26T13:25:55.024Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T13:26:31.331Z [livraria-online] info: API Started!
+2024-06-26T13:26:31.495Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T13:28:36.476Z [livraria-online] info: API Started!
+2024-06-26T13:28:36.620Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T13:28:39.393Z [livraria-online] info: API Started!
+2024-06-26T13:28:39.653Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T13:31:05.173Z [livraria-online] info: API Started!
+2024-06-26T13:31:05.319Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T13:31:37.711Z [livraria-online] info: API Started!
+2024-06-26T13:31:37.844Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T13:31:46.213Z [livraria-online] info: API Started!
+2024-06-26T13:31:46.343Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T13:32:38.625Z [livraria-online] info: API Started!
+2024-06-26T13:32:38.796Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T13:49:34.704Z [livraria-online] info: API Started!
+2024-06-26T13:49:34.850Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T14:24:15.639Z [livraria-online] info: API Started!
+2024-06-26T14:24:15.813Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T14:24:36.384Z [livraria-online] info: API Started!
+2024-06-26T14:24:36.528Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T14:35:46.868Z [livraria-online] info: API Started!
+2024-06-26T14:35:47.059Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T14:36:38.871Z [livraria-online] info: API Started!
+2024-06-26T14:36:39.030Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T14:40:34.516Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T14:40:34.657Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T14:40:47.176Z [livraria-online] error: Erro: POST undefined - Todas as informações são obrigatórias !
+2024-06-26T14:40:56.694Z [livraria-online] error: Erro: POST undefined - client.close is not a function
+2024-06-26T14:53:31.098Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T14:53:31.256Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T14:53:33.188Z [livraria-online] info: POST /livro/info - undefined
+2024-06-26T14:53:49.247Z [livraria-online] error: Erro: GET undefined - relação "livros" não existe
+2024-06-26T14:54:08.345Z [livraria-online] info: POST /livro/info - undefined
+2024-06-26T14:54:39.628Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T14:54:39.766Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T14:54:44.619Z [livraria-online] error: Erro: POST undefined - client.connect is not a function
+2024-06-26T14:55:02.429Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T14:55:02.567Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T14:55:10.194Z [livraria-online] error: Erro: POST undefined - client.connect is not a function
+2024-06-26T14:58:56.778Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T14:58:56.927Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T14:59:04.719Z [livraria-online] error: Erro: POST undefined - client.close is not a function
+2024-06-26T14:59:54.864Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T14:59:55.040Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T15:00:36.239Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T15:00:36.539Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T15:00:40.062Z [livraria-online] error: Erro: POST undefined - client.close is not a function
+2024-06-26T15:00:52.206Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T15:00:52.338Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T15:00:56.905Z [livraria-online] error: Erro: POST undefined - client.close is not a function
+2024-06-26T15:15:45.677Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T15:15:45.831Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T15:15:52.565Z [livraria-online] error: Erro: POST undefined - client.close is not a function
+2024-06-26T15:16:03.742Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T15:16:03.883Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T15:16:27.542Z [livraria-online] error: Erro: POST undefined - client.close is not a function
+2024-06-26T15:17:06.271Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T15:17:06.506Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T15:17:08.717Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T15:17:08.866Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T15:21:33.855Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T15:21:34.046Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T15:21:40.522Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T15:21:40.674Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T15:24:45.157Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T15:24:45.294Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T15:25:51.731Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T15:25:51.927Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T15:26:19.248Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T15:26:19.431Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T15:26:32.364Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T15:26:32.507Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T15:26:42.028Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T15:26:42.191Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T15:31:47.539Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T15:31:47.684Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T15:32:06.446Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T15:32:06.593Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T15:39:04.996Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T15:39:05.151Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T15:39:13.271Z [livraria-online] error: Erro: POST undefined - client.close is not a function
+2024-06-26T15:45:57.603Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T15:45:57.736Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T15:46:03.969Z [livraria-online] info: POST /livro/info - undefined
+2024-06-26T15:54:01.228Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T15:54:01.389Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T15:54:03.708Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T15:54:03.852Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T15:54:08.418Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T15:54:08.556Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T15:54:59.642Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T15:54:59.906Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T15:55:10.375Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T15:55:10.610Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T15:55:13.612Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T15:55:13.756Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T15:55:20.486Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T15:55:20.629Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T15:55:35.024Z [livraria-online] info: POST /livro/info - undefined
+2024-06-26T17:23:45.812Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T17:23:45.969Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T17:23:53.191Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T17:23:53.333Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T17:23:59.114Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T17:23:59.258Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T17:24:45.482Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T17:24:45.642Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T17:25:25.398Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T17:25:25.558Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T17:25:36.602Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T17:25:36.752Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T17:25:43.962Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T17:25:44.106Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T17:26:21.760Z [livraria-online] info: POST /livro/info - undefined
+2024-06-26T17:33:13.760Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T17:33:13.941Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T17:33:17.200Z [livraria-online] info: POST /livro/info - undefined
+2024-06-26T17:33:31.247Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T17:33:31.380Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T17:34:15.998Z [livraria-online] info: POST /livro/info - undefined
+2024-06-26T17:34:40.101Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T17:34:40.242Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T17:34:41.185Z [livraria-online] info: POST /livro/info - undefined
+2024-06-26T17:35:03.886Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T17:35:04.033Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T17:35:05.459Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T17:35:05.591Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T17:47:32.665Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T17:47:32.878Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T17:47:37.351Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T17:47:37.494Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T17:48:10.305Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T17:48:10.443Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T17:48:41.800Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T17:48:41.982Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T17:49:36.013Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T17:49:36.162Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T17:50:57.015Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T17:50:57.267Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T17:51:03.824Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T17:51:04.005Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T17:51:08.420Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T17:51:08.567Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T17:51:23.879Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T17:51:24.056Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T17:51:40.777Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T17:51:40.938Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T17:51:51.603Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T17:51:51.767Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T17:52:32.126Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T17:52:32.293Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T17:52:35.582Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T17:52:35.719Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T18:00:06.414Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T18:00:06.553Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T18:00:17.495Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T18:00:17.669Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T18:00:20.600Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T18:00:20.744Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T18:00:23.871Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T18:00:24.010Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T18:00:38.262Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T18:00:38.407Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T18:01:12.294Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T18:01:12.458Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T18:01:19.233Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T18:01:19.444Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T18:05:08.875Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T18:05:09.061Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T18:05:38.942Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T18:05:39.115Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T18:05:50.660Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T18:05:50.817Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T18:07:21.397Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T18:07:21.549Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T18:07:28.343Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T18:07:28.505Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T18:07:37.658Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T18:07:37.808Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T18:08:28.067Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T18:08:28.207Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T18:11:01.992Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T18:11:02.146Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T18:32:28.566Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T18:32:28.763Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T18:33:22.977Z [livraria-online] error: Erro: POST undefined - The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2024-06-26T18:36:57.785Z [livraria-online] error: Erro: POST undefined - The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2024-06-26T18:39:51.938Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T18:39:52.086Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T19:03:06.770Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T19:03:07.106Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T19:03:13.320Z [livraria-online] error: Erro: POST undefined - The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2024-06-26T19:03:23.016Z [livraria-online] error: Erro: POST undefined - The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2024-06-26T19:03:48.467Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T19:03:48.615Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T19:04:26.750Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T19:04:27.149Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T19:04:32.771Z [livraria-online] error: Erro: POST undefined - The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2024-06-26T19:05:18.794Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T19:05:18.937Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T19:05:22.323Z [livraria-online] info: POST /livro/info - undefined
+2024-06-26T19:05:59.574Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T19:05:59.754Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T19:06:09.618Z [livraria-online] info: POST /livro/info - undefined
+2024-06-26T19:06:13.711Z [livraria-online] info: POST /livro/info - undefined
+2024-06-26T19:07:17.726Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T19:07:17.865Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T19:07:19.851Z [livraria-online] info: POST /livro/info - undefined
+2024-06-26T19:07:38.749Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T19:07:38.918Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T19:07:42.888Z [livraria-online] info: POST /livro/info - undefined
+2024-06-26T19:08:01.217Z [livraria-online] error: Erro: GET undefined - relação "livros" não existe
+2024-06-26T19:08:40.098Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T19:08:40.262Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T19:11:02.272Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T19:11:02.431Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T19:11:10.687Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T19:11:10.886Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T19:11:57.482Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T19:11:57.749Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T19:12:06.909Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T19:12:08.505Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T19:12:08.647Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T19:13:33.921Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T19:13:34.102Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T19:13:48.059Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T19:13:48.228Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T19:14:04.911Z [livraria-online] error: Erro: GET undefined - relação "livros" não existe
+2024-06-26T19:14:06.981Z [livraria-online] error: Erro: GET undefined - relação "livros" não existe
+2024-06-26T19:14:08.347Z [livraria-online] error: Erro: GET undefined - relação "livros" não existe
+2024-06-26T19:23:10.078Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T19:23:10.214Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T19:26:04.825Z [livraria-online] error: Erro: GET undefined - relação "livros" não existe
+2024-06-26T19:26:44.709Z [livraria-online] info: POST /livro/info - undefined
+2024-06-26T19:48:02.766Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T19:48:02.976Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T19:55:11.175Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T19:55:11.334Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T19:55:18.035Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T19:55:18.199Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T19:55:31.588Z [livraria-online] error: Erro: DELETE undefined - LivroService.deleteLivroInfo is not a function
+2024-06-26T19:55:54.940Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T19:55:55.169Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T19:55:58.986Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T19:55:59.138Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T19:56:05.744Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T19:56:05.912Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T19:56:09.243Z [livraria-online] error: Erro: DELETE undefined - LivroRepository.deleteLivroInfo is not a function
+2024-06-26T19:58:35.776Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T19:58:36.091Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T19:59:28.062Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T19:59:28.208Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T19:59:33.126Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T19:59:33.298Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T19:59:35.695Z [livraria-online] error: Erro: DELETE undefined - LivroRepository.deleteLivroInfo is not a function
+2024-06-26T19:59:38.194Z [livraria-online] error: Erro: DELETE undefined - LivroRepository.deleteLivroInfo is not a function
+2024-06-26T20:00:10.096Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T20:00:10.245Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T20:00:21.049Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T20:00:21.227Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T20:00:51.138Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T20:00:51.316Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T20:00:53.306Z [livraria-online] info: DELETE /livro/info
+2024-06-26T20:01:11.879Z [livraria-online] info: DELETE /livro/info
+2024-06-26T20:01:13.466Z [livraria-online] info: DELETE /livro/info
+2024-06-26T20:01:14.552Z [livraria-online] info: DELETE /livro/info
+2024-06-26T20:01:23.816Z [livraria-online] info: DELETE /livro/info
+2024-06-26T20:01:33.526Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T20:01:33.695Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T20:02:46.924Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T20:02:47.082Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T20:02:49.799Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T20:02:50.041Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T20:03:20.537Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T20:03:20.769Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T20:03:32.989Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T20:03:33.133Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T20:03:56.595Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T20:03:56.808Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T20:09:10.334Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T20:09:10.489Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T20:09:38.020Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T20:09:38.233Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T20:09:44.648Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T20:09:44.799Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T20:09:47.605Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T20:09:47.743Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T20:10:12.851Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T20:10:13.012Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T20:10:30.759Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T20:10:30.902Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T20:18:30.675Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T20:18:30.823Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T20:18:49.383Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T20:18:49.564Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T20:18:58.350Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T20:18:58.502Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T20:20:22.862Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T20:20:23.025Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T20:20:37.557Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T20:20:37.838Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T20:20:46.095Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T20:20:46.241Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T20:22:56.164Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T20:22:56.388Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T20:23:02.428Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T20:23:02.579Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T20:23:18.727Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T20:23:18.864Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T20:23:28.527Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T20:23:28.668Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T20:23:41.032Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T20:23:41.196Z [livraria-online] info: Conexão realizada com sucesso!.
+2024-06-26T20:23:46.097Z [livraria-online] info: API Started! PORT: 3001
+2024-06-26T20:23:46.238Z [livraria-online] info: Conexão realizada com sucesso!.

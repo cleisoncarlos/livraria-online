@@ -70,9 +70,42 @@ async function updateLivro(req, res, next) {
     }
 }
 
+
+
+
+async function createLivroInfo(req, res, next) {
+    try {
+        let livroInfo = req.body;
+        if (!livroInfo.livroId) {
+            throw new Error("Id do livro é obrigatório!");
+        }
+        livroInfo = await LivroService.createLivroInfo(livroInfo);
+        res.send(livroInfo);
+        logger.info(`POST /livro/info - ${JSON.stringify(livroInfo)}`);
+    } catch (err) {
+        next(err);
+    }
+}
+
+
+
+
+async function deleteLivroInfo(req, res, next) {
+    try {
+        await LivroService.deleteLivroInfo(req.params.id);
+        res.end();
+        logger.info("DELETE /livro/info");
+    } catch (err) {
+        next(err);
+    }
+}
+
+
 export default {
     createLivro,
     getLivro,
     deleteLivro,
+    deleteLivroInfo,
     updateLivro,
-};
+    createLivroInfo
+}

@@ -53,6 +53,6 @@ app.use((err, req, res, next) => {
 
 app.listen(process.env.PORT, () => {
     // console.log('rodando na porta 3000!')
-    logger.info('API Started!')
+    logger.info(`API Started! PORT: ${process.env.PORT}`)
 
 })
