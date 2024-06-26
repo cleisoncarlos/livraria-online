@@ -4,7 +4,7 @@ import db from '../config/db.js'
 import Cliente from "./cliente.model.js";
 import Livro from "./livro.model.js";
 
-const Venda = db.define('cendas', {
+const Venda = db.define('vendas', {
     vendaId: {
         type: Sequelize.INTEGER,
         autoIncrement: true,
@@ -27,8 +27,12 @@ const Venda = db.define('cendas', {
 
 
 // relacionamento de tabelas
-Venda.belongsTo(Cliente, { foreignKey: 'clienteId' })
-Venda.belongsTo(Livro, { foreignKey: 'livroId' })
+Venda.belongsTo(Cliente, { foreignKey: 'cliente_id' })
+Venda.belongsTo(Livro, { foreignKey: 'livro_id' })
+
+//Venda.sync({ force: true });
+//console.log("A tabela de Vendas foi (re)criada!");
+
 
 export default Venda
 

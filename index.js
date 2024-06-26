@@ -4,6 +4,8 @@ import winston from 'winston'
 
 import clientesRouter from './routes/cliente.route.js'
 import autorRouter from './routes/autor.route.js'
+import livroRouter from './routes/livro.route.js'
+import vendaRouter from './routes/venda.route.js'
 
 
 import 'dotenv/config'
@@ -23,7 +25,7 @@ global.logger = winston.createLogger({
         new (winston.transports.File)({ filename: 'logs/logs.log' })
     ],
     format: combine(
-        label({ label: 'store-api' }),
+        label({ label: 'livraria-online' }),
         timestamp(),
         myFormat
     )
@@ -38,6 +40,8 @@ app.use(cors())
 // rotas=========================
 app.use('/cliente', clientesRouter)
 app.use('/autor', autorRouter)
+app.use('/livro', livroRouter)
+app.use('/venda', vendaRouter)
 
 
 // middleware de erros para salvar no logger

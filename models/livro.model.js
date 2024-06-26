@@ -27,6 +27,10 @@ const Livro = db.define('livros', {
 
 Livro.belongsTo(Autor, { foreignKey: 'autor_id' });
 
+//Livro.sync({ force: true });
+//console.log("A tabela de Livros foi (re)criada!");
+
+
 export default Livro
 
 

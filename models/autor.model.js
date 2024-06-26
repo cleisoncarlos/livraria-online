@@ -25,8 +25,8 @@ const Autor = db.define('autores', {
     { underscored: true })
 
 
-Autor.sync({ force: true });
-console.log("A tabela de Autores foi (re)criada!");
+//Autor.sync({ force: true });
+//console.log("A tabela de Autores foi (re)criada!");
 
 export default Autor
 
